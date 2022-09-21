@@ -1,0 +1,58 @@
+.speech
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.song
+{
+    font-size: 20px;
+    size: 10m;
+    color: black;
+}
+
+.direction
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: rgb(165, 165, 42);
+}
+.name
+{
+    font-size:20px;
+    size:10m;
+    color:black;
+}
+.CHORUS
+{
+    font-size:20px;
+    size:10m;
+    color:rgba(0, 0, 0, 0.692);
+}
+.CELIA
+{
+    font-size: 20px;
+    size: 10m;
+    color: rgb(205, 255, 253);  
+}
+.LEILA
+{
+    font-size: 20px;
+    size: 10m;
+    color: rgb(209, 205, 255);  
+}
+.FLETA
+{
+    font-size: 20px;
+    size: 10m;
+    color: rgb(239, 205, 255);  
+}
+.QUEEN
+{
+    font-size: 20px;
+    size: 10m;
+    color: rgb(255, 224, 205);  
+}  
+
