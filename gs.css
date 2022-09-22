@@ -40,6 +40,11 @@
     color: rgb(205, 255, 253);
     font-family: Georgia, 'Times New Roman', Times, serif;  
 }
+.CELIA:hover
+{
+  box-shadow: 10px 10px 5px; 
+  border: 1px solid rgb(147, 207, 56); 
+}
 .LEILA
 {
     font-size: 10px;
@@ -47,12 +52,22 @@
     color: rgb(209, 205, 255);  
     font-family: Arial, Helvetica, sans-serif;
 }
+.LEILA:hover
+{
+  box-shadow: 10px 10px 5px; 
+  border: 1px solid rgb(156, 57, 57);
+}
 .FLETA
 {
     font-size: 10px;
     size: 10m;
     color: rgb(239, 205, 255); 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.FLETA:hover
+{
+  box-shadow: 10px 10px 5px; 
+  border: 1px solid rgb(44, 44, 214); 
 }
 .QUEEN
 {
